@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781622647369",
+    "project_id": "hackstorage-d7088",
+    "storage_bucket": "hackstorage-d7088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781622647369:android:8f440df9a7a48ac834bd98",
+        "android_client_info": {
+          "package_name": "com.example.hackstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781622647369-aq1i6hcf5gaa3230u48vlqurrn2rvign.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqMzoiIGZ1wvzUmli3YBFAiLMsilV8Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781622647369-aq1i6hcf5gaa3230u48vlqurrn2rvign.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
